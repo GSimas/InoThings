@@ -1,3 +1,6 @@
 [submodule "EraUmaVezUmaCasa"]
 	path = EraUmaVezUmaCasa
 	url = https://github.com/GSimas/EraUmaVezUmaCasa
+[submodule "CampoLogicoMinado"]
+	path = CampoLogicoMinado
+	url = https://github.com/GSimas/Campo-Logico-Minado
