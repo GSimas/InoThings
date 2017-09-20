@@ -1,5 +1,7 @@
 # InoThings
 
+> "Hardware become a piece of culture that anyone can build upon, like a poem or a song" - **Massimo Banzi**
+
 **Description:**
 
 Arduino things, example files, random projects, DIY, tests and experiments.
