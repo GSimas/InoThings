@@ -4,3 +4,6 @@
 [submodule "CampoLogicoMinado"]
 	path = CampoLogicoMinado
 	url = https://github.com/GSimas/Campo-Logico-Minado
+[submodule "Inception"]
+	path = Inception
+	url = https://github.com/GSimas/InoThings
