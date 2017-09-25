@@ -7,3 +7,6 @@
 [submodule "Inception"]
 	path = Inception
 	url = https://github.com/GSimas/InoThings
+[submodule "Tutorials"]
+	path = Tutorials
+	url = https://github.com/arduino/tutorials
