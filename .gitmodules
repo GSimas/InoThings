@@ -10,3 +10,6 @@
 [submodule "Tutorials"]
 	path = Tutorials
 	url = https://github.com/arduino/tutorials
+[submodule "LaPALOMA"]
+	path = LaPALOMA
+	url = https://github.com/GSimas/EEL7801
